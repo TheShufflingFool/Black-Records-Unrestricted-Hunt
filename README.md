@@ -2,7 +2,7 @@
 
 A mod for The Legend of Heroes: Trails of Cold Steel II that removes the New Game+ requirement for all the events related to the Black Records.
 
-Tested on NISA PC version of the game.
+Tested on XSEED PC version of the game.
 
 ## What even are the Black Records?
 To put it in a spoilerless manner - they're a series of books containing some interesting lore. The quest, which involves locating them and decoding their contents, spans the entire game - from the beginning of Act 1 to the Epilogue - despite never appearing in the Notebook. Furthermore, the Black Records storyline ends with a **VERY** important cutscene, which the next game assumes the player has seen (likely due to lack of a save import feature).
@@ -37,7 +37,7 @@ If, for some reason, you can't or don't want to use SenPatcher, follow these ste
   Check the [table below](#bruh-vs-new-game) for a list of differences (contains some minor spoilers).
 
 * **I'm in the middle of my playthrough. Do I have to start a new game to use the mod?**  
-  No, it can be installed at any point before commencing the final operation, which is the deadline for giving all the Black Records to a certain someone. However, most of these books can only be found at very specific points in time. If you're past that point, or have missed a book, they can be purchased as curios, but it will cost you a lot - a full set is around 150k mira.
+  No, it can be installed at any point before commencing the final operation, which is the deadline for giving all the Black Records to a certain someone. However, most of these books can only be found at very specific points in time. If you're past such point, or have missed a book, they can be purchased as curios, but it will cost you a lot - a full set is around 150k mira.
   
 * **Will this work on Steam Deck?**  
   As far as I know, yes. I don't own one so I can't test it myself but, seeing that other mods work on it, I don't see why this one wouldn't.
