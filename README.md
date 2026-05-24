@@ -31,10 +31,17 @@ If, for some reason, you can't or don't want to use SenPatcher, follow these ste
 5. To uninstall, verify integrity of game's files.
 
 ## FAQ
+* **How do I know I installed the mod correctly?**  
+  <ins>RECOMMENDED METHOD ONLY</ins>: You should see a new line regarding modded files in the main menu in the bottom right corner. If it doesn't appear, make sure you downloaded the correct file (you want the .p3a one, not the .zip archive) and placed it inside the correct folder.
+  <img width="1280" height="720" alt="bruh_installed" src="https://github.com/user-attachments/assets/6bc3aa58-ae1d-4d05-86aa-02d734efccfe" />
+  If you use other mods and the books don't appear, it's highly likely there is a compatibility issue. You can try editing `order.txt` inside the `mods` folder and moving `BlackRecords_Unrestricted.p3a` to the top of the list. That should unlock the Black Records but might override changes from the other mods.
+
+  Lastly, do not worry if Black Records 1 is not the first book you find - they're given out of order, unlike the in-game novels.
+
 * **Why should I use this mod? Isn't NG+ just better?**  
   This mod's goal is simple - to offer a vanilla New Game experience without leaving out important story elements. NG+, even with no carry overs, changes certain aspects of the game - disabled tutorials, some extra items in certain shops (like the Zemurian Ore) or larger fish pools, to name a few. If you don't care about an occasional spoiler or two, feel free to use someone's Clear Data save instead.
   
-  Check the [table below](#bruh-vs-new-game) for a list of differences (contains some minor spoilers).
+  Check the [table at the bottom](#bruh-vs-new-game) for a list of differences (contains some minor spoilers).
 
 * **I'm in the middle of my playthrough. Do I have to start a new game to use the mod?**  
   No, it can be installed at any point before commencing the final operation, which is the deadline for giving all the Black Records to a certain someone. However, most of these books can only be found at very specific points in time. If you're past such point, or have missed a book, they can be purchased as curios, but it will cost you a lot - a full set is around 150k mira.
@@ -44,7 +51,7 @@ If, for some reason, you can't or don't want to use SenPatcher, follow these ste
   
 * **What's with the silly name?**  
   It's the only appropriate reaction to learning that a crucial piece of information, directly referenced in the next game, is locked behind New Game+. As Randy would say:
-  
+
   ![bruh](https://i.imgur.com/maj4ocb.png)
 
 ## B.R.U.H. vs New Game+
