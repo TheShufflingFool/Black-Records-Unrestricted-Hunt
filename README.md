@@ -1,7 +1,6 @@
 # Black Records Unrestricted Hunt (B.R.U.H.)
 
 A mod for The Legend of Heroes: Trails of Cold Steel II that removes the New Game+ requirement for all the events related to the Black Records.
-
 Tested on XSEED PC version of the game.
 
 ## What even are the Black Records?
@@ -22,7 +21,7 @@ To put it in a spoilerless manner - they're a series of books containing some in
 
 ### NOT RECOMMENDED METHOD
 If, for some reason, you can't or don't want to use SenPatcher, follow these steps:
-1. Download the latest release of `BlackRecords_Unrestricted.zip` ([here](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt/releases/latest)).
+1. Go to the latest release ([here](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt/releases/latest)) and download `Source code (zip)`.
 2. Locate the game's main directory:
    * for Steam version, right-click on `The Legend of Heroes: Trails of Cold Steel II` and select Manage → Browse local files
    * for GOG version, right-click on `The Legend of Heroes: Trails of Cold Steel II` and select Manage installation → Show folder
@@ -32,7 +31,7 @@ If, for some reason, you can't or don't want to use SenPatcher, follow these ste
 
 ## FAQ
 * **How do I know I installed the mod correctly?**  
-  <ins>RECOMMENDED METHOD ONLY</ins>: You should see a new line regarding modded files in the main menu in the bottom right corner. If it doesn't appear, make sure you downloaded the correct file (you want the .p3a one, not the .zip archive) and placed it inside the correct folder.
+  <ins>RECOMMENDED METHOD ONLY</ins>: You should see a new line regarding modded files in the main menu in the bottom right corner (or, if you have other mods and it was already there, the number of modded files should change). If it doesn't appear (or the number doesn't change), make sure you downloaded the correct file (you want the .p3a one, not any of the archives) and placed it inside the correct folder.
   <img width="1280" height="720" alt="bruh_installed" src="https://github.com/user-attachments/assets/6bc3aa58-ae1d-4d05-86aa-02d734efccfe" />
   If you use other mods and the books don't appear, it's highly likely there is a compatibility issue. You can try editing `order.txt` inside the `mods` folder and moving `BlackRecords_Unrestricted.p3a` to the top of the list. That should unlock the Black Records but might override changes from the other mods.
 
