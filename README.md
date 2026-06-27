@@ -3,6 +3,8 @@
 A mod for The Legend of Heroes: Trails of Cold Steel II that removes the New Game+ requirement for all the events related to the Black Records.
 Tested on XSEED PC version of the game.
 
+Best paired with [B.E.S.T.](https://github.com/TheShufflingFool/Basically-Extra-Social-Time) for unlimited bonding points.
+
 ## What even are the Black Records?
 To put it in a spoilerless manner - they're a series of books containing some interesting lore. The quest, which involves locating them and decoding their contents, spans the entire game - from the beginning of Act 1 to the Epilogue - despite never appearing in the Notebook. Furthermore, the Black Records storyline ends with a **VERY** important cutscene, which the next game assumes the player has seen (likely due to lack of a save import feature).
 
@@ -45,6 +47,9 @@ If, for some reason, you can't or don't want to use SenPatcher, follow these ste
 * **I'm in the middle of my playthrough. Do I have to start a new game to use the mod?**  
   No, it can be installed at any point before commencing the final operation, which is the deadline for giving all the Black Records to a certain someone. However, most of these books can only be found at very specific points in time. If you're past such point, or have missed a book, they can be purchased as curios, but it will cost you a lot - a full set is around 150k mira.
   
+* **Can I get the achievement tied to this questline if I use the mod?**  
+  Yes, the achievement is unlocked upon watching the final cutscene. While I haven't tested this personally, I've received several confirmations from other people.
+  
 * **Will this work on Steam Deck?**  
   As far as I know, yes. I don't own one so I can't test it myself but, seeing that other mods work on it, I don't see why this one wouldn't.
   
@@ -57,7 +62,7 @@ If, for some reason, you can't or don't want to use SenPatcher, follow these ste
 | | New Game with B.R.U.H. | New Game+ |
 | ------------- | ------------- | ------------- |
 | **Black Records** | fully available | fully available |
-| **bonding points** | limited | unlimited |
+| **bonding points** | limited (unlimited with [B.E.S.T.](https://github.com/TheShufflingFool/Basically-Extra-Social-Time)) | unlimited |
 | **tutorials** | appear during gameplay upon unlocking new features | don't appear during gameplay, unlocked in the Notebook from the start, including some with spoilers |
 | **fishing spots** | unaffected | contain late-game fish |
 | **extra items in shops** | no | yes |
