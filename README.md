@@ -21,7 +21,7 @@ To put it in a spoilerless manner - they're a series of books containing some in
 5. Move or copy `BlackRecords_Unrestricted.p3a` to the `mods` folder.
 6. To uninstall, delete `BlackRecords_Unrestricted.p3a` from the `mods` folder.
 
-### NOT RECOMMENDED METHOD
+### UNSUPPORTED METHOD
 If, for some reason, you can't or don't want to use SenPatcher, follow these steps:
 1. Go to the latest release ([here](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt/releases/latest)) and download `Source code (zip)`.
 2. Locate the game's main directory:
