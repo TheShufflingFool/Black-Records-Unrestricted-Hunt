@@ -8,8 +8,12 @@ Best paired with [B.E.S.T.](https://github.com/TheShufflingFool/Basically-Extra-
 ## What even are the Black Records?
 To put it in a spoilerless manner - they're a series of books containing some interesting lore. The quest, which involves locating them and decoding their contents, spans the entire game - from the beginning of Act 1 to the Epilogue - despite never appearing in the Notebook. Furthermore, the Black Records storyline ends with a **VERY** important cutscene, which the next game assumes the player has seen (likely due to lack of a save import feature).
 
+## Version 2.0
+Note that as of version 2.0, B.R.U.H. slightly alters the storyline's final cutscene with a "canon-friendly visual enhancement". This change gives the experience more impact and makes perfect sense in the context but, if you prefer to see it unchanged, you can use [version 1.2](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt/releases/v1.2) instead. You can also watch the enhanced cutscene (major spoilers ahead, obviously) [here](https://www.youtube.com/watch?v=09r3v9ozIbE).
+
+If you use v2.0 or higher, you may want to grab `BRUH_Flashbacks_CS3.p3a` for Trails of Cold Steel III. This mini-mod makes sure that the in-game flashbacks reflect the visual changes from the main mod, and can be installed in the same manner.
+
 ## Installation
-**IMPORTANT!** This mod only works with the text language set to English. The voiceover language is irrelevant.
 
 ### RECOMMENDED METHOD
 1. Download the latest release of AdmiralCurtiss' [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) and use it to patch your game.
