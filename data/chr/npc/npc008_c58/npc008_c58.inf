@@ -1,0 +1,26 @@
+﻿<!-- ====================================================================== -->
+<!-- daeノード情報ファイル ================================================ -->
+<!-- ====================================================================== -->
+<dae_inf>
+
+<!-- ====================================================================== -->
+<!-- キャラクタ固有 -->
+<!-- ====================================================================== -->
+	<chr_infomation>
+		<chr_shadow_receive offset="0.75f" />
+	</chr_infomation>
+
+<!-- ====================================================================== -->
+<!-- daeノード情報 -->
+<!-- ====================================================================== -->
+	<node_infomation>
+	<node_param name="head_point" attachPoint="NODE_HEAD" />
+	<node_param name="center_point" attachPoint="NODE_CENTER" />
+	<node_param name="back4_point" attachPoint="NODE_NECK" />
+	<node_param name="R_arm_point" attachPoint="NODE_R_ARM" comment="右手" />
+	<node_param name="L_arm_point" attachPoint="NODE_L_ARM" comment="左手"/>
+	<!-- 髪の毛めり込み対策 -->
+	<node_param name="BH01" controlJoint="1" controlHair="1" hairRoll="180"/>
+	</node_infomation>
+
+</dae_inf>
