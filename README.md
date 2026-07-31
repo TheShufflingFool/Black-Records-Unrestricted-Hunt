@@ -5,6 +5,8 @@ Tested on XSEED PC version of the game.
 
 Best paired with [B.E.S.T.](https://github.com/TheShufflingFool/Basically-Extra-Social-Time) for unlimited bonding points.
 
+<sub>Mod created by **kundzios** (Got any questions? You can find me on Discord, Reddit or Steam under the same name.)</sub>
+
 ## What even are the Black Records?
 To put it in a spoilerless manner - they're a series of books containing some interesting lore. The quest, which involves locating them and decoding their contents, spans the entire game - from the beginning of Act 1 to the Epilogue - despite never appearing in the Notebook. Furthermore, the Black Records storyline ends with a **VERY** important cutscene, which the next game assumes the player has seen (likely due to lack of a save import feature).
 
@@ -17,7 +19,7 @@ If you use v2.0 or higher, you may want to grab `BRUH_Flashbacks_CS3.p3a` for Tr
 
 ### RECOMMENDED METHOD
 1. Download the latest release of AdmiralCurtiss' [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) and use it to patch your game.
-2. Download the latest release of `BlackRecords_Unrestricted.p3a` ([here](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt/releases/latest)).
+2. Download the latest release of `BlackRecords_Unrestricted.p3a` ([DOWNLOAD LINK](https://github.com/TheShufflingFool/Black-Records-Unrestricted-Hunt/releases/latest)).
 3. Locate the game's main directory:
    * for Steam version, right-click on `The Legend of Heroes: Trails of Cold Steel II` and select Manage → Browse local files
    * for GOG version, right-click on `The Legend of Heroes: Trails of Cold Steel II` and select Manage installation → Show folder
@@ -37,9 +39,9 @@ If, for some reason, you can't or don't want to use SenPatcher, follow these ste
 
 ## FAQ
 * **How do I know I installed the mod correctly?**  
-  <ins>RECOMMENDED METHOD ONLY</ins>: You should see a new line regarding modded files in the main menu in the bottom right corner (or, if you have other mods and it was already there, the number of modded files should change). If it doesn't appear (or the number doesn't change), make sure you downloaded the correct file (you want the .p3a one, not any of the archives) and placed it inside the correct folder.
+  <ins>RECOMMENDED METHOD ONLY</ins>: You should see a new line regarding modded files in the main menu in the bottom right corner (or, if you have other mods and it was already there, the number of modded files should change). If it doesn't appear (or the number doesn't change), make sure you downloaded the correct file (it's not inside any .zip archive) and placed it inside the correct folder.
   <img width="1280" height="720" alt="bruh_installed" src="https://github.com/user-attachments/assets/6bc3aa58-ae1d-4d05-86aa-02d734efccfe" />
-  If you use other mods and the books don't appear, it's highly likely there is a compatibility issue. You can try editing `order.txt` inside the `mods` folder and moving `BlackRecords_Unrestricted.p3a` to the top of the list. That should unlock the Black Records but might override changes from the other mods.
+  If you use other mods and B.R.U.H. doesn't work as intended, it's highly likely there is a compatibility issue. You can try editing `order.txt` inside the `mods` folder and moving `BlackRecords_Unrestricted.p3a` to the top of the list (if you also use B.E.S.T., move them both and make sure B.R.U.H. remains below it). That should unlock the Black Records but might override changes from the other mods.
 
   Lastly, do not worry if Black Records 1 is not the first book you find - they're given out of order, unlike the in-game novels.
 
@@ -73,3 +75,11 @@ If, for some reason, you can't or don't want to use SenPatcher, follow these ste
 | **extra boss in the Finale** | no | yes |
 | **spoiler message in the Divertissement** | no | yes |
 | **Epilogue's Mirror cutscenes** | no | yes |
+
+## Tools used & Credits
+A big thank you to the authors of the following tools, this mod wouldn't exist without them:
+* [SenPatcher](https://github.com/AdmiralCurtiss/SenPatcher) by AdmiralCurtiss
+* [kreuzen](https://github.com/Aureole-Suite/Kreuzen) by Kyuuhachi
+* [SenScriptsDecompiler](https://github.com/TwnKey/SenScriptsDecompiler) by TwnKey
+* [tbled](https://git.sr.ht/~quf/tocs/tree/trunk/tbled/README.md) by hüllenoperator
+* [ED8 Model Toolset](https://github.com/eArmada8/ed8pkg2gltf) by eArmada8
